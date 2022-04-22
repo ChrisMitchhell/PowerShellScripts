@@ -1,0 +1,1 @@
+﻿ect ItemCount –Descending | ft DisplayName, TotalItemSize, ItemCount | Out-File C:\report.txt
