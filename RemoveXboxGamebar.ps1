@@ -1,0 +1,1 @@
+﻿ get-appxpackage *Microsoft.XboxGamingOverlay* | remove-appxpackage

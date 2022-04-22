@@ -1,0 +1,1 @@
+﻿Get-Mailbox –Resultsize Unlimited | Set-MailboxMessageConfiguration -DefaultFontSize 3 -DefaultFontName Calibri
